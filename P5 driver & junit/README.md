@@ -1,9 +1,8 @@
-Compile with jUnit
-    Using IDE: you know how to do it
-    Using terminal: 
-        -Put all the files in one folder
-            javac -cp .:./jUnit.jar *.java
-            java -cp .:./jUnit.jar P5Test
+Using IDE: you know how to do it
+Using terminal:
+Put all the files in one folder
+Compile: javac -cp .:./jUnit.jar *.java
+Run: java -cp .:./jUnit.jar P5Test
             
             
 If you want to run Driver standalone use:
